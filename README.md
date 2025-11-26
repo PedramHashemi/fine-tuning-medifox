@@ -1,0 +1,1 @@
+HF Model Location: https://huggingface.co/Peds/medifox-fine-tuned/commit/77fd0804c9bdcdd0f9a46c2a77415d3be4878bc3
